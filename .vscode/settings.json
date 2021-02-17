@@ -4,6 +4,7 @@
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
   "vetur.experimental.templateInterpolationService": true,
   "files.exclude": {
+    "CNAME": true,
     "dist/": true,
     ".quasar/": true,
     "node_modules/": true
